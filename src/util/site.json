@@ -1,9 +1,9 @@
 {
   "meta": {
-    "title": "Mi Ert - Herbert Perathoner",
+    "title": "Jörg M. Dialer",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://perathoner.netlify.app/",
+    "description": "Der gute Geist von Büchsenhausen / Innsbruck / Tirol stellt seinen Schaffenszyklus vor.\nIm Jahre 2020.",
+    "siteUrl": "https://jmdialer.netlify.app/",
     "image": "/assets/stackrole.png",
     "twitterUsername": "@bbmediadesign"
   },
